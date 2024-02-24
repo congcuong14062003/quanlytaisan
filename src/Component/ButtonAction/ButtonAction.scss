@@ -1,0 +1,16 @@
+.button_action {
+  button {
+    width: max-content;
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: var(--disable-btn-color);
+    min-width: 150px;
+    border: 1px solid var(--border-btn-color);
+  }
+}
+.primary {
+  button {
+    background-color: var(--primary-btn-color);
+    color: #fff;
+  }
+}
